@@ -1,0 +1,1 @@
+*El objetivo de este archivo es explicar como funciona la esta personalización de nvim*

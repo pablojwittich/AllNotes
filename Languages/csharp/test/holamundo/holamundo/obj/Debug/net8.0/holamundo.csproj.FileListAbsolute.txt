@@ -1,0 +1,14 @@
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/bin/Debug/net8.0/holamundo
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/bin/Debug/net8.0/holamundo.deps.json
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/bin/Debug/net8.0/holamundo.runtimeconfig.json
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/bin/Debug/net8.0/holamundo.dll
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/bin/Debug/net8.0/holamundo.pdb
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.AssemblyInfoInputs.cache
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.AssemblyInfo.cs
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.csproj.CoreCompileInputs.cache
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.dll
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/refint/holamundo.dll
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.pdb
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/holamundo.genruntimeconfig.cache
+/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/obj/Debug/net8.0/ref/holamundo.dll

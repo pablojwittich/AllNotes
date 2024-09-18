@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMSVIeYEBfAqIP8xyXrJocjANkvQ8EfsLLilgMr5YSQjj7yGfiFzySx4TDIla9u8/xT4Zllw8kenUprvqp88vQ==",
+  "success": true,
+  "projectFilePath": "/home/p4bl0/Documentos/AllNotes/Languages/C sharp/test/holamundo/holamundo/holamundo.csproj",
+  "expectedPackageFiles": [
+    "/home/p4bl0/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
