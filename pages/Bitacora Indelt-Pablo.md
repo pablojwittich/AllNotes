@@ -1,2 +1,3 @@
+- [[Oct 7th, 2024]]
 - Con los visto en el [[Oct 7th, 2024]] el plan de acción hasta ahora es terminar de realizar la pagina de [[Ato]]
 -
