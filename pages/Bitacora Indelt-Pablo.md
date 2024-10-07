@@ -1,4 +1,4 @@
 - [[Oct 7th, 2024]]
 - Con los visto en el [[Oct 7th, 2024]] el plan de acción hasta ahora es terminar de realizar la pagina de [[Ato]]
-- Buenas hoy estuve creando y editando el perfil de instagram de indelt ()
+- Buenas hoy estuve creando y editando el perfil de instagram de indelt (https://www.instagram.com/indelt__). Tambien lo estuve sincronizando con la Fan page de Indelt. Por Ultimo tuve editando las placas de
 -
