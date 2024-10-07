@@ -1,4 +1,4 @@
 - [[Oct 7th, 2024]]
 - Con los visto en el [[Oct 7th, 2024]] el plan de acción hasta ahora es terminar de realizar la pagina de [[Ato]]
 - Buenas hoy estuve creando y editando el perfil de instagram de indelt (https://www.instagram.com/indelt__). Tambien lo estuve sincronizando con la Fan page de Indelt. Por Ultimo tuve editando las placas de para el directo de axoft para mañana subirlas
-- Con respecto al resto de la jornada lo que hice es ir programando la pagina de a
+- Con respecto al resto de la jornada lo que hice es ir programando la pagina de Ato en los mismos aspectos con fin de después darle mas funcionalidad.
