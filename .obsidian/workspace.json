@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "2ea056e8e5dc2339",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d0cd23bf8d61da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c93d1477c1bb811",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5da202bda969aa54",
+    "type": "split",
+    "children": [
+      {
+        "id": "37610b87520c7318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d85eec9b4ebbe00c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6dcbbfaaea348b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2a5c4f1ad5739093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aeba34c3938806b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc6ef9f78408c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda39f2e01cd21b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "30c33612a5fd89dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "878ed5c6dfc5dbf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "efc5ef31d9543e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4c93d1477c1bb811",
+  "lastOpenFiles": [
+    "Languages/POO/Métodos.md",
+    "Languages/php/php_poo.md",
+    "Languages/POO/Atributos.md",
+    "Languages/php/php_poo.md~",
+    "Languages/POO/Clases.md",
+    "Languages/POO/Objetos.md",
+    "POO.md",
+    "Languages/POO",
+    "Technologies/Linux/Fish Shell.md",
+    "Languages/csharp/Curso_intensivo_de_CSharp.md",
+    "pages/Indelt.md",
+    "pages/contents.md",
+    "pages/Bitacora Indelt-Pablo.md",
+    "Technologies/nvim/Readme.md"
+  ]
+}
